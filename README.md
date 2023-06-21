@@ -1,2 +1,2 @@
-# global_user_guide
-global_user_guide
+# global_camera_user_guide
+global_camera_user_guide
