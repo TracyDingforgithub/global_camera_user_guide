@@ -4,4 +4,4 @@ Currently, it is OpenNI 2.4.4 for index.html (under directory of Documentation\c
 
 Built on May 9 2023
 
-![](<../.gitbook/assets/globL_camera/image (8).png>)
+![](<../.gitbook/assets/global_camera/image (8).png>)

@@ -2,7 +2,7 @@
 
 For optimal recognition results, follow these requirements when installing your LIPS camera.
 
-![](../../.gitbook/assets/globL_camera/0.png)
+![](../../.gitbook/assets/global_camera/0.png)
 
 * **Working Distance:** Install the camera at approximately **20 \~ 400 cm** from the recognition target, depending on the working range for different scenarios. To adjust the camera’s working range, refer to [_Working Range Settings_](../../3.-sdk-installation/3.2-sdk-knowledge-base/a.-sdk-setting-configurations.md).
 * **Camera Position:** Install the camera on a **tripod**, facing the recognition target. Note that LIPS Corp. does **NOT** provide a tripod within the package, and you need to get your own tripod for hardware installation.
@@ -170,7 +170,7 @@ For optimal recognition results, follow these requirements when installing your 
 |   |   |   |
 |   |   |   |
 
-![](<../../.gitbook/assets/globL_camera/4 (1).png>)
+![](<../../.gitbook/assets/global_camera/4 (1).png>)
 
 **LIPS CORPORATION**
 

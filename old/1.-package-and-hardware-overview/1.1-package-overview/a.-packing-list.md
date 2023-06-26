@@ -11,11 +11,11 @@ description: >-
 {% tab title="LIPSedge™ DL" %}
 * LIPSedge™ DL camera
 
-![](<../../.gitbook/assets/globL_camera/image (2) (1).png>)
+![](<../../.gitbook/assets/global_camera/image (2) (1).png>)
 
 * USB 3.0 Y-Cable
 
-![](<../../.gitbook/assets/globL_camera/image (14).png>)
+![](<../../.gitbook/assets/global_camera/image (14).png>)
 
 * LIPSedge DL SDK User’s Guide
 {% endtab %}
@@ -24,6 +24,6 @@ description: >-
 * LIPSedge™ M3 camera
 * USB 2.0 Y cable
 
-![](<../../.gitbook/assets/globL_camera/image (10) (2).png>)
+![](<../../.gitbook/assets/global_camera/image (10) (2).png>)
 {% endtab %}
 {% endtabs %}
