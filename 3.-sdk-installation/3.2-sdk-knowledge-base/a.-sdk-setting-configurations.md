@@ -58,10 +58,10 @@ The Flying Pixel Removal function filters noises resulting from the discrepancy 
 
 5.  Here’s a comparison between images with different levels of filter.
 
-    | P0: 0.000002                                | P0: 0.000004                                | P0: 0.000008                                        |
-    | ------------------------------------------- | ------------------------------------------- | --------------------------------------------------- |
-    | ![](<../../.gitbook/assets/image (32).png>) | ![](<../../.gitbook/assets/image (26).png>) | ![](<../../.gitbook/assets/image (41).png>)         |
-    | P0: 0.000016                                | P0: 0.000032                                | P0: 0.000064                                        |
+    | P0: 0.000002                                | P0: 0.000004                                | P0: 0.000008                                |
+    | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+    | ![](<../../.gitbook/assets/image (32).png>) | ![](<../../.gitbook/assets/image (26).png>) | ![](<../../.gitbook/assets/image (41).png>) |
+    | P0: 0.000016                                | P0: 0.000032                                | P0: 0.000064                                |
     | ![](<../../.gitbook/assets/image (25).png>) | ![](<../../.gitbook/assets/image (38).png>) | ![](<../../.gitbook/assets/image (10).png>) |
 {% endtab %}
 
@@ -85,11 +85,11 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 
 5. Here’s a comparison between images with different confidence threshold level.
 
-| OWCT Level 1                                    | OWCT Level 2                                | OWCT Level 3                                |
-| ----------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| OWCT Level 1                                | OWCT Level 2                                | OWCT Level 3                                |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
 | ![](<../../.gitbook/assets/image (15).png>) | ![](<../../.gitbook/assets/image (48).png>) | ![](<../../.gitbook/assets/image (37).png>) |
-| OWCT Level 4                                    | OWCT Level 5                                | OWCT Level 6                                |
-| ![](<../../.gitbook/assets/image (49).png>)     | ![](<../../.gitbook/assets/image (17).png>) | ![](<../../.gitbook/assets/image (20).png>) |
+| OWCT Level 4                                | OWCT Level 5                                | OWCT Level 6                                |
+| ![](<../../.gitbook/assets/image (49).png>) | ![](<../../.gitbook/assets/image (17).png>) | ![](<../../.gitbook/assets/image (20).png>) |
 {% endtab %}
 
 {% tab title="d. Working Range Settings" %}
@@ -152,8 +152,8 @@ Under camera, adjust the value of anti\_flicker. Type 50 for 50 Hz, 60 for 60 Hz
 
 3. Here’s a comparison between normal and flickering images.
 
-| Normal Image                                | Flickering Image                                |
-| ------------------------------------------- | ----------------------------------------------- |
+| Normal Image                                | Flickering Image                            |
+| ------------------------------------------- | ------------------------------------------- |
 | ![](<../../.gitbook/assets/image (66).png>) | ![](<../../.gitbook/assets/image (67).png>) |
 {% endtab %}
 
@@ -183,6 +183,6 @@ This feature works for LIPSedge DL only. NiViewer supports YUY2 or MJPEG format 
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully. With YUY2 encryption, the livestream will have slight delay. With MJPEG, the livestream will be smoother.
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (7).png>)
 {% endtab %}
 {% endtabs %}
