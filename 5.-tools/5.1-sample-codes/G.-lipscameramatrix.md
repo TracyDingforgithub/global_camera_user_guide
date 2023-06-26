@@ -12,8 +12,6 @@ description: >-
 
 ### How to use
 
-TBD
-
 {% embed url="https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample_app#nicameramatrix" %}
 [https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample\_app#nicameramatrix](https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample\_app#nicameramatrix)
 {% endembed %}
