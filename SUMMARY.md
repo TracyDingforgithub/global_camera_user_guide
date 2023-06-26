@@ -32,5 +32,4 @@
   * [7.1 Applications](7.-applications-and-middleware-supports/7.1-applications.md)
   * [7.2 Middlewares](7.-applications-and-middleware-supports/7.2-middlewares.md)
 * [8. SDK Tutorial (global by camera)](8.-sdk-tutorial/8.-sdk-tutorial.md)
-* [9. Appendix (private by owner)](9.-appendix-private-by-owner/README.md)
-  * [9.1 Regulatory Compliance -->](9.-appendix-private-by-owner/9.1-regulatory-compliance-greater-than.md)
+
