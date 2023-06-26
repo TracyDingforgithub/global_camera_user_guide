@@ -11,7 +11,7 @@ The hardware layer oversees data capture, transfer, and processes.
 
 In the software layer, the captured data is fetched by the LIPS SDK (Software Development Kit) on the OS environment. Depending on the project complexity, wrappers and third-party utilities may be engaged before the data is eventually presented in the application layer for business applications.
 
-<figure><img src=".gitbook/assets/global_camera/image.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image.png)
 
 <figure><img src="../.gitbook/assets/global_camera/image.png" alt=""><figcaption></figcaption></figure>
 
