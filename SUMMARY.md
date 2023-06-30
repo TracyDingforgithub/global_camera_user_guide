@@ -1,6 +1,17 @@
 # Table of contents
 
 * [LIPSedge™ global User's Guide](README.md)
+* [1. Package & Hardware Overview (private by owner)](1.-package-and-hardware-overview/README.md)
+  * [1.1 Package Overview](1.-package-and-hardware-overview/1.1-package-overview/README.md)
+    * [A. Packing List](1.-package-and-hardware-overview/1.1-package-overview/a.-packing-list.md)
+    * [B. Camera Accessories](1.-package-and-hardware-overview/1.1-package-overview/b.-camera-accessories.md)
+    * [C. Supplementary Options](1.-package-and-hardware-overview/1.1-package-overview/c.-supplementary-options.md)
+  * [1.2 Hardware Overview](1.-package-and-hardware-overview/1.2-hardware-overview/README.md)
+    * [A. Hardware Features](1.-package-and-hardware-overview/1.2-hardware-overview/a.-hardware-features.md)
+    * [B. Hardware Installation](1.-package-and-hardware-overview/1.2-hardware-overview/b.-hardware-installation.md)
+    * [C. Camera Connection](1.-package-and-hardware-overview/1.2-hardware-overview/c.-camera-connection.md)
+    * [D. Mounting Options](1.-package-and-hardware-overview/1.2-hardware-overview/d.-mounting-options.md)
+    * [E. Hardware Dimensions](1.-package-and-hardware-overview/1.2-hardware-overview/e.-hardware-dimensions.md)
 * [2. SDK Structure (global by camera)](2.-sdk-structure/README.md)
 * [3. SDK Installation (global by camera)](3.-sdk-installation/README.md)
   * [3.1 Platforms](3.-sdk-installation/3.1-platforms/README.md)
@@ -32,4 +43,4 @@
   * [7.1 Applications](7.-applications-and-middleware-supports/7.1-applications.md)
   * [7.2 Middlewares](7.-applications-and-middleware-supports/7.2-middlewares.md)
 * [8. SDK Tutorial (global by camera)](8.-sdk-tutorial/8.-sdk-tutorial.md)
-
+  * [9.1 Regulatory Compliance test](9.-appendix/9.1-regulatory-compliance.md)
