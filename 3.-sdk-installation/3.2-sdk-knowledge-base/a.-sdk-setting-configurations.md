@@ -62,7 +62,7 @@ The Flying Pixel Removal function filters noises resulting from the discrepancy 
     | -------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
     | ![](<../../.gitbook/assets/global\_camera/image (32).png>)     | ![](<../../.gitbook/assets/global\_camera/image (26).png>) | ![](<../../.gitbook/assets/global\_camera/image (41).png>) |
     | P0: 0.000016                                                   | P0: 0.000032                                               | P0: 0.000064                                               |
-    | ![](<../../.gitbook/assets/global\_camera/image (25).png>) | ![](<../../.gitbook/assets/global\_camera/image (38).png>) | ![](<../../.gitbook/assets/global\_camera/image (10).png>) |
+    | ![](<../../.gitbook/assets/global\_camera/image (25) (1).png>) | ![](<../../.gitbook/assets/global\_camera/image (38).png>) | ![](<../../.gitbook/assets/global\_camera/image (10).png>) |
 {% endtab %}
 
 {% tab title="c. OWCT Setting" %}
