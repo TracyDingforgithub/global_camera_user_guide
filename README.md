@@ -1,2 +1,2 @@
-# LIPSedge? global User's Guide
+# LIPSedge™ global User's Guide
 

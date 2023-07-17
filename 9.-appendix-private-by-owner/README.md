@@ -1,2 +1,2 @@
-# 9. Appendix (private by owner)
+# 9. Appendix
 
