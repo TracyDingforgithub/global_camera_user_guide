@@ -5,7 +5,7 @@ description: >-
   hardware layer and the software layer.
 ---
 
-# 2. SDK Structure (global by camera)
+# 2. SDK Structure
 
 The hardware layer oversees data capture, transfer, and processes.
 
