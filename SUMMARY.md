@@ -44,4 +44,4 @@
   * [7.2 Middlewares](7.-applications-and-middleware-supports/7.2-middlewares.md)
 * [8. SDK Tutorial](8.-sdk-tutorial/8.-sdk-tutorial.md)
 * [9. Appendix](9.-appendix/README.md)
-  * [9.1 Regulatory Compliance test](9.-appendix/9.1-regulatory-compliance.md)
+  * [9.1 Regulatory Compliance test](9.-appendix/9.1-regulatory-compliance-test.md)
