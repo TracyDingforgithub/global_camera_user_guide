@@ -1,6 +1,6 @@
 ---
 description: >-
-  To speed up your development, we support many libraries & languages and
+  To speed up your development, we support many libraries, languages and
   wrappers.
 ---
 
