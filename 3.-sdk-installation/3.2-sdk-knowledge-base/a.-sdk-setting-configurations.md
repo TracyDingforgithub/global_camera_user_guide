@@ -22,7 +22,11 @@ With the cutting range function, you can specify the minimum and maximum working
 
 \- 1000 value represents 1 m of physical distance.
 
+<<<<<<< HEAD
 ![](<../../.gitbook/assets/global_camera/image (6).png>)
+=======
+<figure><img src="../../.gitbook/assets/global_camera/image (6).png" alt=""><figcaption></figcaption></figure>
+>>>>>>> 5f43431a0a8617a21da1a99748c7779d6a073bbe
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully.
 
