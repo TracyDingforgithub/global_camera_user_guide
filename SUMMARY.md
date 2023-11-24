@@ -21,6 +21,7 @@
     * [D. Other OS (by request)](3.-sdk-installation/3.1-platforms/d.-other-os-\(by-request\).md)
   * [3.2 SDK Knowledge Base](3.-sdk-installation/3.2-sdk-knowledge-base/README.md)
     * [A. SDK Setting Configurations](3.-sdk-installation/3.2-sdk-knowledge-base/a.-sdk-setting-configurations.md)
+    * [B. Camera Web Interface](3.-sdk-installation/3.2-sdk-knowledge-base/b.-camera-web-interface.md)
 * [4. APIs](4.-apis/README.md)
   * [APIs for OpenNI2](4.-apis/apis-for-openni2.md)
 * [5. Tools](5.-tools/README.md)
