@@ -87,4 +87,8 @@ u  Show / Hide Help Screen \[Shift + ?]: Shows the Help Screen which contains th
 
 u  Esc: Exits NIViewer.+
 {% endtab %}
+
+{% tab title="d. IP Address Configuration" %}
+For LIPSedge AE camera ONLY.
+{% endtab %}
 {% endtabs %}
