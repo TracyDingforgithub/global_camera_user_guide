@@ -1,6 +1,6 @@
 # B. Camera Web Interface
 
-FOR LIPSedge AE camera ONLY.
+For LIPSedge AE camera ONLY.
 
 
 {% tabs %}
