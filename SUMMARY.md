@@ -31,7 +31,7 @@
     * [C. Ni2EventBasedViewer-gl](5.-tools/5.1-sample-codes/c.-ni2eventbasedviewer-gl.md)
     * [D. Ni2PointCloud-gl\*](5.-tools/5.1-sample-codes/d.-ni2pointcloud-gl.md)
     * [E. Ni2CenterRead](5.-tools/5.1-sample-codes/e.-ni2centerread.md)
-    * [1. LIPSCameraMatrix\*](5.-tools/5.1-sample-codes/g.-lipscameramatrix.md)
+    * [1. LIPSCameraMatrix](5.-tools/5.1-sample-codes/g.-lipscameramatrix.md)
     * [2. LIPSImuReader](5.-tools/5.1-sample-codes/i.-lipsimureader.md)
     * [3. LIPSLensModeSelect-gl](5.-tools/5.1-sample-codes/h.-lipslensmodeselect-gl.md)
     * [4. LIPSPowerTest-gl](5.-tools/5.1-sample-codes/f.-lipspowertest-gl.md)
