@@ -23,6 +23,7 @@
     * [A.  OpenNI2 and Dependent Files](3.-sdk-installation/3.2-sdk-knowledge-base/a.-openni2-and-dependent-files.md)
     * [B. SDK Setting Configurations](3.-sdk-installation/3.2-sdk-knowledge-base/a.-sdk-setting-configurations.md)
     * [C. Camera Web Interface](3.-sdk-installation/3.2-sdk-knowledge-base/b.-camera-web-interface.md)
+    * [3.2 SDK Knowledge Base](3.-sdk-installation/3.2-sdk-knowledge-base/3.2-sdk-knowledge-base.md)
 * [4. APIs](4.-apis/README.md)
   * [APIs for OpenNI2](4.-apis/apis-for-openni2.md)
 * [5. Tools](5.-tools/README.md)
