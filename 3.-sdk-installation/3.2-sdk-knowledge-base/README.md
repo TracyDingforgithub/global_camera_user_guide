@@ -15,7 +15,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Windows Setup" %}
-![](../../.gitbook/assets/0.png)
+![](../../.gitbook/assets/global_camera/0.png)
 
 * **NOTICE**: Dependent libraries necessary for LIPSedge™ camera SDK functionality. Do NOT modify or delete the folder content.
 * **OpenNI2**: OpenNI-related files that are essential for camera integration and function control, including system configuration files and example applications.
