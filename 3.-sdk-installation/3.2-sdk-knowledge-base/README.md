@@ -31,7 +31,7 @@ The SDK package for LIPSedge™ camera provides a comprehensive set of files and
 
 ![A screenshot of a computer
 
-Description automatically generated](../../.gitbook/assets/1.png)
+Description automatically generated](../../.gitbook/assets/global_camera/1.png)
 
 * **Documentation**: Contains essential OpenNI C++ API documentation.
 * **Include**: Contains essential OpenNI C++ headers. These headers can be checked along with the associated library files to facilitate development.
