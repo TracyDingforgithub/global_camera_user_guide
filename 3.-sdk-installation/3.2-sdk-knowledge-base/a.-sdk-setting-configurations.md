@@ -40,7 +40,7 @@ With the cutting range function, you can specify the minimum and maximum working
 {% tab title="b. Flying Pixel Removal" %}
 The Flying Pixel Removal function filters noises resulting from the discrepancy between the reflected depth of the object and its background. By default, the Flying Pixel Removal function is enabled.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 1\. In the ModuleConfig.json file, find object A18 > enable\_00000004.
 
@@ -62,7 +62,7 @@ The Flying Pixel Removal function filters noises resulting from the discrepancy 
     | ------------------------------------------- | ------------------------------------------- | ----------------------------------------------- |
     | ![](<../../.gitbook/assets/image (32).png>) | ![](<../../.gitbook/assets/image (26).png>) | ![](<../../.gitbook/assets/image (41) (1).png>) |
     | P0: 0.000016                                | P0: 0.000032                                | P0: 0.000064                                    |
-    | ![](<../../.gitbook/assets/image (25).png>) | ![](<../../.gitbook/assets/image (38).png>) | ![](<../../.gitbook/assets/image (10).png>)     |
+    | ![](<../../.gitbook/assets/image (25).png>) | ![](<../../.gitbook/assets/image (38).png>) | ![](<../../.gitbook/assets/image (10) (1).png>) |
 {% endtab %}
 
 {% tab title="c. OWCT Setting" %}
@@ -72,12 +72,12 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 
 2\. Under CT, adjust the parameter of ow\_enable. To enable / disable OWCT, type true / false.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 3. Optionally, change the value of object **P0** for adjusting the filter strength. **1** represents the weakest filter, while **10** represents the strongest.\
    By default, the threshold value is 1.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 4. Save the settings and launch your viewer to verify if the change is applied successfully.
 

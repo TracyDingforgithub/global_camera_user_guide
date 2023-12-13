@@ -9,7 +9,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Windows Setup" %}
-![](<../../.gitbook/assets/global\_camera/0 (1).png>)
+![](<../../.gitbook/assets/0 (2).png>)
 
 * **NOTICE**: Dependent libraries necessary for LIPSedge™ camera SDK functionality. Do NOT modify or delete the folder content.
 * **OpenNI2**: OpenNI-related files that are essential for camera integration and function control, including system configuration files and example applications.
@@ -23,7 +23,7 @@ description: >-
 
 The SDK package for LIPSedge™ camera provides a comprehensive set of files and folders to support camera integration and development. These resources include OpenNI C++ API documentation, header files, libraries for compilation, sample applications, system files, and important information such as licenses and release notes.
 
-![](<../../.gitbook/assets/global\_camera/1 (1).png>)
+![](<../../.gitbook/assets/1 (1).png>)
 
 * **Documentation**: Contains essential OpenNI C++ API documentation.
 * **Include**: Contains essential OpenNI C++ headers. These headers can be checked along with the associated library files to facilitate development.
@@ -42,7 +42,7 @@ In LIPSedge™ camera SDK (OpenNI based) for the Linux system, the folders are s
 
 Go to **./home/LIPSedge-Camera-SDK-Linux/LIPSedge\[Model]-SDK** for OpenNI C++ API documentation, header files, libraries for compilation, sample applications, system files, and important information such as licenses and release notes.
 
-![](../../.gitbook/assets/global\_camera/2.png)
+![](../../.gitbook/assets/2.png)
 
 * **bin**: Consists of the USB driver files for the LIPS camera.
 * **Documentation**: Contains essential OpenNI C++ API documentation.
