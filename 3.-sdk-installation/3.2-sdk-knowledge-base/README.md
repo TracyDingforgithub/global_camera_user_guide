@@ -7,8 +7,6 @@ description: >-
 
 # 3.2 SDK Knowledge Base  sdfgs
 
-**Windows Setup**
-
 {% tabs %}
 {% tab title="Windows Setup" %}
 ![](../../.gitbook/assets/global_camera/0.png)
@@ -25,7 +23,9 @@ description: >-
 
 The SDK package for LIPSedge™ camera provides a comprehensive set of files and folders to support camera integration and development. These resources include OpenNI C++ API documentation, header files, libraries for compilation, sample applications, system files, and important information such as licenses and release notes.
 
-![](../../.gitbook/assets/global_camera/1.png)
+!\[A screenshot of a computer
+
+Description automatically generated]\(../../.gitbook/assets/global\_camera/1.png)
 
 * **Documentation**: Contains essential OpenNI C++ API documentation.
 * **Include**: Contains essential OpenNI C++ headers. These headers can be checked along with the associated library files to facilitate development.
