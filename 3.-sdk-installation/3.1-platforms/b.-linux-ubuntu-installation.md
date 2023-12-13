@@ -1,5 +1,19 @@
-# B. Linux/Ubuntu Installation
+# B. Linux/Ubuntu Installation(x64)
 
-{% embed url="https://lips-hci.gitbook.io/lips-developer-documentation/installation-and-setup/lipsedge-dl-and-m3-series/installation/linux" %}
-[https://lips-hci.gitbook.io/lips-developer-documentation/installation-and-setup/lipsedge-dl-and-m3-series/installation/linux](https://lips-hci.gitbook.io/lips-developer-documentation/installation-and-setup/lipsedge-dl-and-m3-series/installation/linux)
-{% endembed %}
+{% tabs %}
+{% tab title="a.	SDK Installation" %}
+
+{% endtab %}
+
+{% tab title="b.	Camera Access by NIViewer" %}
+
+{% endtab %}
+
+{% tab title="c. NIViewer Settings" %}
+
+{% endtab %}
+
+{% tab title="d. IP Address Configuration" %}
+For LIPSedge AE camera ONLY.
+{% endtab %}
+{% endtabs %}
