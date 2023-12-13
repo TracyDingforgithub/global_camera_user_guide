@@ -4,14 +4,14 @@ description: >-
   intrinsic/extrinsic parameters.
 ---
 
-# G. LIPSCameraMatrix\*
+# 1. LIPSCameraMatrix\*
 
-### Download here
+A simple OpenNI2 tool to query supported video modes and list camera intrinsic/extrinsic parameters.
 
-{% embed url="https://github.com/lips-hci/LIPSedge-sdk-samples" %}
+a.     In Bin, click LIPSCameraMatrix.exe
 
-### How to use
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample_app#nicameramatrix" %}
-[https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample\_app#nicameramatrix](https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample\_app#nicameramatrix)
-{% endembed %}
+b.     Provides detailed camera parameters for depth, IR, and color cameras.
+
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
