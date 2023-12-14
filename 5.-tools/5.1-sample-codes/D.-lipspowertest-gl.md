@@ -5,23 +5,10 @@ description: Put camera into sleep mode to shutdown projector/emitter temporaril
 # D. LIPSPowerTest-gl
 
 1\.     In Bin, click Ni2PowerTest-gl.exe.
-
-![A screenshot of a computer
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
-
-&#x20;
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (36).png" alt=""><figcaption></figcaption></figure>
 
 2\.     A Status Window and a Viewer Window pops up.
-
-![A screenshot of a computer
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.jpg)
-
-\
-
-
-&#x20;
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3\.     Type the following status code into the Status Window interface to\
 enable / disable the Standby Mode.
@@ -31,20 +18,7 @@ enable / disable the Standby Mode.
 \-          n: Disable the Standby Mode.
 
 \-          q: Exists the program.
-
-![A screenshot of a computer program
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image006.jpg)
-
-&#x20;
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (3).png" alt=""><figcaption></figcaption></figure>
 
 4\.     Press Enter and the changes takes place.
-
-![A screenshot of a computer
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image008.jpg)
-
-\
-
-
-&#x20;
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (4).png" alt=""><figcaption></figcaption></figure>
