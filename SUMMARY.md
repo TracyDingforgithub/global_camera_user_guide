@@ -28,7 +28,7 @@
   * [5.1 Sample Codes](5.-tools/5.1-sample-codes/README.md)
     * [A. LIPSCameraMatrix???](5.-tools/5.1-sample-codes/A.-lipscameramatrix.md)
     * [B. LIPSImuReader](5.-tools/5.1-sample-codes/B.-lipsimureader.md)
-    * [C. LIPSLensModeSelect-gl](5.-tools/5.1-sample-codes/h.-lipslensmodeselect-gl.md)
+    * [C. LIPSLensModeSelect-gl](5.-tools/5.1-sample-codes/C.-lipslensmodeselect-gl.md)
     * [D. LIPSPowerTest-gl](5.-tools/5.1-sample-codes/f.-lipspowertest-gl.md)
     * [E. Ni2CenterRead](5.-tools/5.1-sample-codes/e.-ni2centerread.md)
     * [F. Ni2EventBasedViewer-gl](5.-tools/5.1-sample-codes/c.-ni2eventbasedviewer-gl.md)
