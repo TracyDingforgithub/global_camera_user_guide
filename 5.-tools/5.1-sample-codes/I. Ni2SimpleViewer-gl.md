@@ -6,10 +6,18 @@ description: >-
 
 # I. Ni2SimpleViewer-gl
 
-### Download here
+1\.     In Bin, click Ni2SimpleViewer-gl.exe.
 
-{% embed url="https://github.com/lips-hci/LIPSedge-sdk-samples" %}
+![A screenshot of a computer
 
-### How to use
+Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
 
-TBD
+&#x20;
+
+2\.     A simplified version of NiViewer using OpenCV to display Depth/IR/Color frames.
+
+![一張含有 文字, 螢幕擷取畫面, 室內, 牆 的圖片
+
+自動產生的描述](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.jpg)
+
+\

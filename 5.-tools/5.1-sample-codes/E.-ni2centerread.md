@@ -4,10 +4,16 @@ description: A simple OpenNI2 console program to show depth value at center poin
 
 # E. Ni2CenterRead
 
-### Download here
+1\.     In Bin, click Ni2CenterRead.exe.
 
-{% embed url="https://github.com/lips-hci/LIPSedge-sdk-samples" %}
+![A screenshot of a computer
 
-### How to use
+Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
 
-TBD
+&#x20;
+
+2\.     A simple OpenNI2 console program to show depth value at center point of frame.
+
+![A screenshot of a computer
+
+Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.jpg)
