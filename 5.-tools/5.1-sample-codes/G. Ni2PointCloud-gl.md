@@ -6,13 +6,13 @@ description: NiPointcloud generates pointcloud data for depth camera.
 
 1\.     In Bin, click Ni2PointCloud-gl.exe.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (46).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 2\.     Another OpenNI2 sample for 3D point cloud visualization through OpenGL.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (47).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample_app#nipointcloud-gl" %}
 [https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample\_app#nipointcloud-gl](https://lips-hci.gitbook.io/lips-developer-documentation/sdk-code-samples-and-languages-wrappers/openni2/sample\_app#nipointcloud-gl)
