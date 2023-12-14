@@ -6,8 +6,6 @@ description: >-
 
 # A. LIPSCameraMatrix
 
-LIPSCameraMatrix: A simple OpenNI2 tool to query supported video modes and list camera intrinsic/extrinsic parameters.
-
 1\. In Bin, click LIPSCameraMatrix.exe.
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (31).png" alt=""><figcaption></figcaption></figure>
