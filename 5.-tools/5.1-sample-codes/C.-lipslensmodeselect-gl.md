@@ -12,7 +12,7 @@ description: >-
 
 2\. Provides two user-selectable modes for camera operation. In the default mode (Mode 1), the camera has a range of up to 8 meters.
 
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/%20image%20(40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (40).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (39).png" alt=""><figcaption></figcaption></figure>
 
