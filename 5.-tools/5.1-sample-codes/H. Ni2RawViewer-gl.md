@@ -6,9 +6,7 @@ description: A simple tool to read OpenNI2 frames captured as raw data format.
 
 1\.     Start NiRawViewer. Make sure the camera is properly configured and connected.
 
-![A screenshot of a computer
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 2\.     Press C and the current image will be captured.
 
@@ -20,15 +18,11 @@ Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/
 
 4\.     Drag a raw image file to the Ni2RawViewer-gl.
 
-![A screenshot of a computer program
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image004.jpg)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 5\.     The raw image file will be displayed.
 
-![A screenshot of a computer
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image006.jpg)
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 6\.     Users can navigate through the image with the following hotkeys:
 
@@ -42,9 +36,7 @@ Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/
 
 \-       Down / Right arrow key: Displays the next frame.
 
-![A screenshot of a computer program
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image008.jpg)
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
