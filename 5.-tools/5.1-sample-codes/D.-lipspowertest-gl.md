@@ -2,7 +2,7 @@
 description: Put camera into sleep mode to shutdown projector/emitter temporarily.
 ---
 
-# F. LIPSPowerTest-gl
+# D. LIPSPowerTest-gl
 
 ### Download here
 
