@@ -5,12 +5,7 @@ description: OpenNI2 device management by event-driven design.
 # F. Ni2EventBasedViewer-gl
 
 1\.     In Bin, click Ni2EventBasedViewer-gl.exe.
-
-![A screenshot of a computer
-
-Description automatically generated](file:///C:/Users/000311/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.jpg)
-
-&#x20;
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (36).png" alt=""><figcaption></figcaption></figure>
 
 2\.     The Ni2EventBasedViewer-gl provides notifications when the device becomes disconnected.
 
