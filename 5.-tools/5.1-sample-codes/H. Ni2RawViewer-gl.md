@@ -2,7 +2,7 @@
 description: A simple tool to read OpenNI2 frames captured as raw data format.
 ---
 
-# B. Ni2RawViewer-gl
+# H. Ni2RawViewer-gl
 
 ### Download here
 
