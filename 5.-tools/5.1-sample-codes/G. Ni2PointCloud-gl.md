@@ -2,7 +2,7 @@
 description: NiPointcloud generates pointcloud data for depth camera.
 ---
 
-# D. Ni2PointCloud-gl\*
+# G. Ni2PointCloud-gl\*
 
 ### Download here
 
