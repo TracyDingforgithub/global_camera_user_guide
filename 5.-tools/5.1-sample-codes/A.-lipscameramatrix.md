@@ -15,3 +15,5 @@ LIPSCameraMatrix: A simple OpenNI2 tool to query supported video modes and list 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 2\.     Provides detailed camera parameters for depth, IR, and color cameras.
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
