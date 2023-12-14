@@ -4,7 +4,7 @@ description: >-
   intrinsic/extrinsic parameters.
 ---
 
-# G. LIPSCameraMatrix\*
+# A. LIPSCameraMatrix
 
 ### Download here
 
