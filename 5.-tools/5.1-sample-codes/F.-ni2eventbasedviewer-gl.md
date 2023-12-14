@@ -18,6 +18,6 @@ description: OpenNI2 device management by event-driven design.
 
 3\.     When users reconnect the device, the system promptly re-establishes the connection, granting access to streaming for Depth, IR, and RGB data once again.
 
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (9).png" alt=""><figcaption></figcaption></figure>
 
 \
