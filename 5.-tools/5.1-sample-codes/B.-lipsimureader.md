@@ -2,7 +2,7 @@
 description: A tool to read IMU sensor data (Accel. & Gyro) from LIPSedge camera.
 ---
 
-# I. LIPSImuReader
+# B. LIPSImuReader
 
 ### Download here
 
