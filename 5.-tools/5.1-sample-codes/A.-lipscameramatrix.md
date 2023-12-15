@@ -5,8 +5,7 @@ description: >-
 ---
 
 # A. LIPSCameraMatrix
-    asdfad
-1\. In Bin, click LIPSCameraMatrix.exe.
+1\. In Bin, click LIPSCameraMatrix.exe.  adfad
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (31).png" alt=""><figcaption></figcaption></figure>
 
