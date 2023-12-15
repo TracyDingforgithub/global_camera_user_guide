@@ -6,7 +6,7 @@ description: A simple OpenNI2 console program to show depth value at center poin
 
 1\. In Bin, click Ni2CenterRead.exe.
 
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. A simple OpenNI2 console program to show depth value at center point of frame.
 
