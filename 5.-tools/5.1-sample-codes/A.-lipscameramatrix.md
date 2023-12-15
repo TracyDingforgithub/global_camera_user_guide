@@ -5,7 +5,7 @@ description: >-
 ---
 
 # A. LIPSCameraMatrix
-
+    
 1\. In Bin, click LIPSCameraMatrix.exe.
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (31).png" alt=""><figcaption></figcaption></figure>
