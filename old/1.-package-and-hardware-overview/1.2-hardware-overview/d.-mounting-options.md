@@ -1,3 +1,0 @@
-# D. Mounting Options
-
-NONE

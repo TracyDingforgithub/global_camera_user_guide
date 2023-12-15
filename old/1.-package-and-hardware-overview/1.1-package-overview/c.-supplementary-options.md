@@ -1,3 +1,0 @@
-# C. Supplementary Options
-
-NONE

@@ -1,3 +1,0 @@
-# B. Hardware Dimensions
-
-NONE
