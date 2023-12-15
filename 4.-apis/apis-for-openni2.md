@@ -1,7 +1,4 @@
 # APIs for OpenNI2
-
-![](<../.gitbook/assets/image (8) (1).png>)
-
 LIPSedge cameraa SDK is integrated with OpenNI APIs. The key strength of this robust framework lies in its effortless access to the camera's internal parameters, empowering developers to delve deep into raw data and tailor applications to specific functionalities. Developers can access the programming guide for the API at: /LIPSedge\[Model]-SDK/Documentation.&#x20;
 
 index.html (under directory of OpenNI2\Documentation\cpp)
