@@ -22,7 +22,7 @@ With the cutting range function, you can specify the minimum and maximum working
 
 \- 1000 value represents 1 m of physical distance.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully.
 
@@ -72,7 +72,7 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 
 2\. Under CT, adjust the parameter of ow\_enable. To enable / disable OWCT, type true / false.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 3. Optionally, change the value of object **P0** for adjusting the filter strength. **1** represents the weakest filter, while **10** represents the strongest.\
    By default, the threshold value is 1.
@@ -81,15 +81,15 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 
 4. Save the settings and launch your viewer to verify if the change is applied successfully.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 5. Here’s a comparison between images with different confidence threshold level.
 
-| OWCT Level 1                                | OWCT Level 2                                | OWCT Level 3                                |
-| ------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| ![](<../../.gitbook/assets/image (15).png>) | ![](<../../.gitbook/assets/image (48).png>) | ![](<../../.gitbook/assets/image (37).png>) |
-| OWCT Level 4                                | OWCT Level 5                                | OWCT Level 6                                |
-| ![](<../../.gitbook/assets/image (49).png>) | ![](<../../.gitbook/assets/image (17).png>) | ![](<../../.gitbook/assets/image (20).png>) |
+| OWCT Level 1                                    | OWCT Level 2                                | OWCT Level 3                                |
+| ----------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| ![](<../../.gitbook/assets/image (15) (1).png>) | ![](<../../.gitbook/assets/image (48).png>) | ![](<../../.gitbook/assets/image (37).png>) |
+| OWCT Level 4                                    | OWCT Level 5                                | OWCT Level 6                                |
+| ![](<../../.gitbook/assets/image (49).png>)     | ![](<../../.gitbook/assets/image (17).png>) | ![](<../../.gitbook/assets/image (20).png>) |
 {% endtab %}
 
 {% tab title="d. Working Range Settings" %}
@@ -118,7 +118,7 @@ LIPS Camera keeps a system log for system activities, warnings, and errors. You 
 
 3\. Save the settings and launch your viewer to verify if the change is applied successfully.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 {% endtab %}
 {% endtabs %}
 
