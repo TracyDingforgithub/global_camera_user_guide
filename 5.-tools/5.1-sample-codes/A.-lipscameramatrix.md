@@ -4,8 +4,8 @@ description: >-
   intrinsic/extrinsic parameters.
 ---
 
-# A. LIPSCameraMatrix adfads
-    
+# A. LIPSCameraMatrix
+    asdfad
 1\. In Bin, click LIPSCameraMatrix.exe.
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (31).png" alt=""><figcaption></figcaption></figure>
