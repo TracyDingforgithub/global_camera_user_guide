@@ -2,9 +2,9 @@
 description: NiPointcloud generates pointcloud data for depth camera.
 ---
 
-# G. Ni2PointCloud-gl
+# G. Ni2PointCloud-gl afadf
 
-1\. In Bin, click Ni2PointCloud-gl.exe.
+1\. In Bin, click Ni2PointCloud-gl.exe.   sdff
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (46).png" alt=""><figcaption></figcaption></figure>
 
 
