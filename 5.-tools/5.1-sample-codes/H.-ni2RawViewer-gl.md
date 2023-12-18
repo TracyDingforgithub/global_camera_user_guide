@@ -4,7 +4,7 @@ description: A simple tool to read OpenNI2 frames captured as raw data format.
 
 # H. Ni2RawViewer-gl
 
-1\. Start NiRawViewer. Make sure the camera is properly configured and connected.   dfsdfg
+1\. Start NiRawViewer. Make sure the camera is properly configured and connected.
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (48).png" alt=""><figcaption></figcaption></figure>
 
