@@ -4,7 +4,7 @@ description: OpenNI2 device management by event-driven design.
 
 # F. Ni2EventBasedViewer-gl
 
-1\. In LIPSedgeSamples/Bin, click Ni2EventBasedViewer-gl.
+1\. In LIPSedgeSamples/Bin, start Ni2EventBasedViewer-gl.
 
 {% tabs %}
 {% tab title="Windows" %}

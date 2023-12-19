@@ -6,7 +6,7 @@ description: >-
 
 # I. Ni2SimpleViewer-gl
 
-1. In LIPSedgeSamples/Bin, click Ni2SimpleViewer-gl.
+1. In LIPSedgeSamples/Bin, start Ni2SimpleViewer-gl.
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -18,6 +18,6 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-2\.  A simplified version of NiViewer using OpenCV to display Depth/IR/Color frames.
+2\. A simplified version of NiViewer using OpenCV to display Depth/IR/Color frames.
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (53).png" alt=""><figcaption></figcaption></figure>

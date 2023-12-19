@@ -58,11 +58,11 @@ The Flying Pixel Removal function filters noises resulting from the discrepancy 
 
 5.  Here’s a comparison between images with different levels of filter.
 
-    | P0: 0.000002                                | P0: 0.000004                                | P0: 0.000008                                        |
-    | ------------------------------------------- | ------------------------------------------- | --------------------------------------------------- |
-    | ![](<../../.gitbook/assets/image (32).png>) | ![](<../../.gitbook/assets/image (26).png>) | ![](<../../.gitbook/assets/image (41) (1).png>)     |
-    | P0: 0.000016                                | P0: 0.000032                                | P0: 0.000064                                        |
-    | ![](<../../.gitbook/assets/image (25).png>) | ![](<../../.gitbook/assets/image (38).png>) | ![](<../../.gitbook/assets/image (10) (1) (1).png>) |
+    | P0: 0.000002                                | P0: 0.000004                                | P0: 0.000008                                            |
+    | ------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+    | ![](<../../.gitbook/assets/image (32).png>) | ![](<../../.gitbook/assets/image (26).png>) | ![](<../../.gitbook/assets/image (41) (1).png>)         |
+    | P0: 0.000016                                | P0: 0.000032                                | P0: 0.000064                                            |
+    | ![](<../../.gitbook/assets/image (25).png>) | ![](<../../.gitbook/assets/image (38).png>) | ![](<../../.gitbook/assets/image (10) (1) (1) (1).png>) |
 {% endtab %}
 
 {% tab title="c. OWCT Setting" %}

@@ -4,7 +4,7 @@ description: A simple OpenNI2 console program to show depth value at center poin
 
 # E. Ni2CenterRead
 
-1\. In LIPSedgeSamples/Bin, click Ni2CenterRead.
+1\. In LIPSedgeSamples/Bin, start Ni2CenterRead.
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -15,7 +15,6 @@ description: A simple OpenNI2 console program to show depth value at center poin
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
 
 2\. A simple OpenNI2 console program to show depth value at center point of frame.
 
