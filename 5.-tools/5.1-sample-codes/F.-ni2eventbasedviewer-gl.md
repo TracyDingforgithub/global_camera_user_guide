@@ -12,7 +12,7 @@ description: OpenNI2 device management by event-driven design.
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
