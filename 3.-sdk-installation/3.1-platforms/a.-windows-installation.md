@@ -6,12 +6,12 @@ access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-hci.
 
 1. Visit [LIPS SDK & Downloads](https://www.lips-hci.com/3d-camera) website.
 
-![](../../.gitbook/assets/0.png)
+![](<../../.gitbook/assets/0 (3).png>)
 
 2. Under **LIPSedge**™ **Camera SDK**, select SDK file to download the installation file based on the preferred version, framework, and compatible operating system.
 3. Download, extract and execute the downloaded file.
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (2).png>)
 
 4. Click **Next**.
 
@@ -114,11 +114,9 @@ NIViewer relies on hotkeys, which are listed in the help menu, to control its fu
 
 **Note**: LIPSedgeTM M3 only supports depth / IR images and functions. IR images will be displayed when functions involving color streaming is selected.
 
-| Default – The help menu hidden       | The help menu displayed                      |
-| ------------------------------------ | -------------------------------------------- |
-| ![](../../.gitbook/assets/global_camera/access_by_NIViewer/20.png) |  ![](<../../.gitbook/assets/global_camera/access_by_NIViewer/image (4).png>) |
-
-
+| Default – The help menu hidden                                        | The help menu displayed                                                        |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/20.png) | ![](<../../.gitbook/assets/global\_camera/access\_by\_NIViewer/image (4).png>) |
 
 The help menu provides the following functionalities:
 

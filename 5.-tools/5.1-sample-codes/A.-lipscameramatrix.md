@@ -5,7 +5,18 @@ description: >-
 ---
 
 # A. LIPSCameraMatrix
-1\. In Bin, click LIPSCameraMatrix.exe.
+
+1\. In LIPSedgeSamples/Bin, start LIPSCameraMatrix.exe.
+
+{% tabs %}
+{% tab title="Windows" %}
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Linux" %}
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (31).png" alt=""><figcaption></figcaption></figure>
 
