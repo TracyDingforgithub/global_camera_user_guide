@@ -7,8 +7,16 @@ description: >-
 # C. LIPSLensModeSelect-gl
 
 1\. In Bin, click LIPSLensModeSelect-gl.exe
-
+{% tabs %}
+{% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (37).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Linux" %}
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
 
 2\. Provides two user-selectable modes for camera operation. In the default mode (Mode 1), the camera has a range of up to 8 meters.
 

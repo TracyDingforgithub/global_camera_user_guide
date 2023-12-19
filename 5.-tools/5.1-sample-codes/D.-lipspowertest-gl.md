@@ -6,7 +6,16 @@ description: Put camera into sleep mode to shutdown projector/emitter temporaril
 
 1\. In Bin, click Ni2PowerTest-gl.exe.
 
+{% tabs %}
+{% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (36) (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Linux" %}
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
 
 2\. A Status Window and a Viewer Window pops up.
 
