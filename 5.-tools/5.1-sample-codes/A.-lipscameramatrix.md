@@ -10,15 +10,13 @@ description: >-
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (31).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (31).png" alt=""><figcaption></figcaption></figure>
 
 2\. Provides detailed camera parameters for depth, IR, and color cameras.
 

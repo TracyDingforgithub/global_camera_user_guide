@@ -10,15 +10,13 @@ description: >-
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (52).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (52).png" alt=""><figcaption></figcaption></figure>
 
 2\.  A simplified version of NiViewer using OpenCV to display Depth/IR/Color frames.
 

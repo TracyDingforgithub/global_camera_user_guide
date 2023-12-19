@@ -8,15 +8,14 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (48).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (48).png" alt=""><figcaption></figcaption></figure>
 
 2\. Press C and the current image will be captured.
 
