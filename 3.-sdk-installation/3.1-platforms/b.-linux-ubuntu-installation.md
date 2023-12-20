@@ -94,6 +94,6 @@ The hotkey functions for the NIViewer of Linux version are identical to its Wind
 {% endtab %}
 
 {% tab title="d. IP Address Configuration" %}
-This section is NOT applicable to this model.
+This section is <mark style="color:red;">**NOT**</mark> applicable to this model.
 {% endtab %}
 {% endtabs %}
