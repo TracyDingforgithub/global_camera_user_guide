@@ -180,6 +180,6 @@ Move the pointer towards the adjacent yellow segment to assess the width between
 {% endtab %}
 
 {% tab title="d. IP Address Configuration" %}
-This section is NOT applicable to this model.
+This section is <mark style="color:red;">**NOT**</mark> applicable to this model.
 {% endtab %}
 {% endtabs %}
