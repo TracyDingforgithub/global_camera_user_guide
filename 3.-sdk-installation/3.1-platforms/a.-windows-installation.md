@@ -25,7 +25,7 @@ access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-hci.
 
 ![](../../.gitbook/assets/4.png)
 
-7. From the top menu, select the type of installation for the host PC: In this case, it is recommended to select **Custom Installation > LIPSedge™ DL / M3 SDK**.\\
+7. From the top menu, select the type of installation for the host PC: In this case, it is recommended to select **Custom Installation > LIPSedge™ camera SDK**.
 8. **Full Installation**: Install all LIPSedge™ SDKs with all system dependencies for all available LIPSedge™ camera models.
 9. **Compact Installations**: Install LIPSedge™ SDK with minimum system dependencies for the chosen model.
 10. **Custom Installation**: Install LIPSedge™ SDK with limited functionality for the chosen model.
@@ -100,7 +100,7 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/17.png)
 
-8. Optionally press C to capture the current screen as a raw format file. To access the raw format file, go to **LIPSedge™ DL SDK > OpenNI2 > Tools > CaptureFrames** and drag the captured image file to the **Ni2RawViewer.exe**. For details, refer to _5.1 LIPSedgeSamples_.
+8. Optionally press C to capture the current screen as a raw format file. To access the raw format file, go to **LIPSedge™ camera SDK > OpenNI2 > Tools > CaptureFrames** and drag the captured image file to the **Ni2RawViewer.exe**. For details, refer to _5.1 LIPSedgeSamples_.
 
 ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/18.png)
 
