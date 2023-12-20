@@ -66,7 +66,7 @@ access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-hci.
 {% endtab %}
 
 {% tab title="b. Camera Access by NIViewer" %}
-LIPSedge™ DL / M3 utilizes NIViewer, OpenNI’s signature tool, for examining and assessing the quality of depth, RGB, and point cloud image.
+LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining and assessing the quality of depth, RGB, and point cloud image.
 
 1. From the Start menu, start NIViewer.
 
