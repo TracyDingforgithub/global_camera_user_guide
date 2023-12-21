@@ -8,11 +8,11 @@ description: A simple OpenNI2 console program to show depth value at center poin
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (63).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

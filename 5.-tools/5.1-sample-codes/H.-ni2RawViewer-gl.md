@@ -12,7 +12,7 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (10) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
