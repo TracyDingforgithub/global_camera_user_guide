@@ -70,7 +70,7 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 1. From the Start menu, start NIViewer.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/11.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/11.png)
 
 **Note**: If users use Linux platform. Please follow command below to activate NiViewer.
 
@@ -80,33 +80,33 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 3. The **Status Window** displays the camera information, such as SDK build version, SDK time stamp, camera ID, status. This example utilizes LIPSedge™ DL.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/13.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/13.png)
 
 4. The **Viewer Window** displays the Depth image on screen.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/14.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/14.png)
 
 5. Press **\[p]** to activate **the pointer mode**. The meter below shows the depth data of the given point marked by the indicator.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/15.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/15.png)
 
 6. Optionally choose an area to display by dragging a cropping area with the cursor. The rest of the areas will be masked from displaying.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/16.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/16.png)
 
 7. Optionally press F to maximize / minimize the viewer’s window.
 
 **Note**: If for any reason the USB cable is forcibly removed while NiViewer is functioning, an **ERROR! Device disconnected** message appears on the screen. To resume livestreaming, re-plug the USB cable.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/17.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/17.png)
 
 8. Optionally press C to capture the current screen as a raw format file. To access the raw format file, go to **LIPSedge™ camera SDK > OpenNI2 > Tools > CaptureFrames** and drag the captured image file to the **Ni2RawViewer.exe**. For details, refer to _5.1 LIPSedgeSamples_.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/18.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/18.png)
 
 9. If by accident the camera is abruptly connected, the camera will automatically restore the camera connection.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/19.png)
+![](../../.gitbook/assets/global_camera/access_by_NIViewer/19.png)
 {% endtab %}
 
 {% tab title="c. NIViewer Settings" %}
@@ -116,7 +116,7 @@ NIViewer relies on hotkeys, which are listed in the help menu, to control its fu
 
 | Default – The help menu hidden                                        | The help menu displayed                                                        |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/20.png) | ![](<../../.gitbook/assets/global\_camera/access\_by\_NIViewer/image (4).png>) |
+| ![](../../.gitbook/assets/global_camera/access_by_NIViewer/20.png) | ![](<../../.gitbook/assets/global_camera/access_by_NIViewer/image (4).png>) |
 
 The help menu provides the following functionalities:
 
