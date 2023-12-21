@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="a. SDK Installation" %}
-access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-hci.com/3d-camera) and procure the package for the preferred version, framework, and compatible operating system.
+To access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-hci.com/3d-camera) and procure the package for the preferred version, framework, and compatible operating system.
 
 1. Visit [LIPS SDK & Downloads](https://www.lips-hci.com/3d-camera) website.
 
