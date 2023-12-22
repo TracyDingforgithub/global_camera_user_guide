@@ -6,12 +6,12 @@ To access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-h
 
 1. Visit [LIPS SDK & Downloads](https://www.lips-hci.com/3d-camera) website.
 
-![](<../../.gitbook/assets/0 (3).png>)
+
 
 2. Under **LIPSedge**™ **Camera SDK**, select SDK file to download the installation file based on the preferred version, framework, and compatible operating system.
 3. Download, extract and execute the downloaded file.
 
-![](<../../.gitbook/assets/1 (2).png>)
+
 
 4. Click **Next**.
 
@@ -25,10 +25,10 @@ To access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-h
 
 ![](../../.gitbook/assets/4.png)
 
-7. From the top menu, select the type of installation for the host PC: In this case, it is recommended to select **Custom Installation > LIPSedge™ camera SDK**.
-8. **Full Installation**: Install all LIPSedge™ SDKs with all system dependencies for all available LIPSedge™ camera models.
-9. **Compact Installations**: Install LIPSedge™ SDK with minimum system dependencies for the chosen model.
-10. **Custom Installation**: Install LIPSedge™ SDK with limited functionality for the chosen model.
+7. From the top menu, select the type of installation for the host PC: In this case, it is recommended to select **Custom Installation > LIPSedge™ camera SDK**. \
+   \- **Full Installation**: Install all LIPSedge™ SDKs with all system dependencies for all available LIPSedge™ camera models.\
+   \- **Compact Installations**: Install LIPSedge™ SDK with minimum system dependencies for the chosen model.\
+   **- Custom Installation**: Install LIPSedge™ SDK with limited functionality for the chosen model.
 
 ![](../../.gitbook/assets/5.png)
 
@@ -42,7 +42,7 @@ To access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-h
 
 10. Once the installation is successful, the LIPSedge™ SDK and its relevant components are accessible at C:\Program Files\LIPSedge Camera SDK x.xx.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
 
 11. The LIPSedge™ SDK is also accessible from the desktop shortcut.
 
@@ -50,7 +50,7 @@ To access the SDK, visit [https://www.lips-hci.com/3d-camera](https://www.lips-h
 
 12. The desktop shortcut folder contains:
 
-![](../../.gitbook/assets/10.png)
+
 
 * **Browse LIPSedge SDK Samples**: A ink to [LIPS Corp.'s GitHub for example applications](https://github.com/lips-hci/LIPSedge-sdk-samples)
 * **Browse LIPSedge SDK Wrappers**: Link to [LIPS Corp.'s GitHub for the supported wrapper's source code.](https://github.com/lips-hci/LIPSedge-sdk-wrappers)
@@ -70,7 +70,7 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 1. From the Start menu, start NIViewer.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/11.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/11.png)
 
 **Note**: If users use Linux platform. Please follow command below to activate NiViewer.
 
@@ -80,33 +80,33 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 3. The **Status Window** displays the camera information, such as SDK build version, SDK time stamp, camera ID, status. This example utilizes LIPSedge™ DL.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/13.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/13.png)
 
 4. The **Viewer Window** displays the Depth image on screen.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/14.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/14.png)
 
 5. Press **\[p]** to activate **the pointer mode**. The meter below shows the depth data of the given point marked by the indicator.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/15.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/15.png)
 
 6. Optionally choose an area to display by dragging a cropping area with the cursor. The rest of the areas will be masked from displaying.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/16.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/16.png)
 
 7. Optionally press F to maximize / minimize the viewer’s window.
 
 **Note**: If for any reason the USB cable is forcibly removed while NiViewer is functioning, an **ERROR! Device disconnected** message appears on the screen. To resume livestreaming, re-plug the USB cable.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/17.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/17.png)
 
 8. Optionally press C to capture the current screen as a raw format file. To access the raw format file, go to **LIPSedge™ camera SDK > OpenNI2 > Tools > CaptureFrames** and drag the captured image file to the **Ni2RawViewer.exe**. For details, refer to _5.1 LIPSedgeSamples_.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/18.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/18.png)
 
 9. If by accident the camera is abruptly connected, the camera will automatically restore the camera connection.
 
-![](../../.gitbook/assets/global_camera/access_by_NIViewer/19.png)
+![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/19.png)
 {% endtab %}
 
 {% tab title="c. NIViewer Settings" %}
@@ -116,7 +116,7 @@ NIViewer relies on hotkeys, which are listed in the help menu, to control its fu
 
 | Default – The help menu hidden                                        | The help menu displayed                                                        |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| ![](../../.gitbook/assets/global_camera/access_by_NIViewer/20.png) | ![](<../../.gitbook/assets/global_camera/access_by_NIViewer/image (4).png>) |
+| ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/20.png) | ![](<../../.gitbook/assets/global\_camera/access\_by\_NIViewer/image (4).png>) |
 
 The help menu provides the following functionalities:
 
@@ -183,3 +183,4 @@ Move the pointer towards the adjacent yellow segment to assess the width between
 This section is <mark style="color:red;">**NOT**</mark> applicable to this model.
 {% endtab %}
 {% endtabs %}
+
