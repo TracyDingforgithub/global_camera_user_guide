@@ -100,9 +100,12 @@ LIPS Camera supports two working range settings: **Normal Range** (1 \~ 4 m) and
 1. In the **ModuleConfig.json** file, find object **config**.
 2. Under **config**, adjust the parameter of **lens\_mode**. To enable **Normal Range**, type **1**. To enable **Close Range**, type **0**. By default, the value of lens\_mode is 1.
 
-![](<../../.gitbook/assets/image (55).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully. On the **Calibration column**, parameter beginning with **0203** represents **Normal Range**, and **0211** represents **Close Range** in LIPS SDK.
+
+![](<../../.gitbook/assets/image (55).png>)
+
 4. You can also switch between Close and Normal Range instantly by pressing **x**.
 
 ![](<../../.gitbook/assets/image (42).png>)
