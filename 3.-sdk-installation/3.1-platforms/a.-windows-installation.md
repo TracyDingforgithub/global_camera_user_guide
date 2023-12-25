@@ -78,7 +78,7 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 <figure><img src="../../.gitbook/assets/global_camera/access_by_NIViewer/12.png" alt=""><figcaption></figcaption></figure>
 
-3. The **Status Window** displays the camera information, such as SDK build version, SDK time stamp, camera ID, status. This example utilizes LIPSedge™ DL.
+3. The **Status Window** displays the camera information, such as SDK build version, SDK time stamp, camera ID, status.
 
 ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/13.png)
 
