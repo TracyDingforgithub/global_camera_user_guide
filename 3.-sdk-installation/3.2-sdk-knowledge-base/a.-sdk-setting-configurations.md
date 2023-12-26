@@ -115,7 +115,9 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 {% tab title="d. Working Range Settings" %}
 LIPS Camera supports two working range settings: **Normal Range** (1 \~ 4 m) and **Close Range** (0.2 \~ 1.2 m). You can adjust the working range settings depending on the estimated distance between the camera and the target. By default, the camera works on the Normal Range.
 
+{% hint style="info" %}
 <mark style="color:orange;">Note: Configuration process may vary from model to model.</mark>
+{% endhint %}
 
 1. In the **ModuleConfig.json** file, find object **config**.
 2. Under **config**, adjust the parameter of **lens\_mode**. To enable **Normal Range**, type **1**. To enable **Close Range**, type **0**. By default, the value of lens\_mode is 1.
