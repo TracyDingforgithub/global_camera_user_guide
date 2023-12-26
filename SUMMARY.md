@@ -20,6 +20,7 @@
     * [C. NVIDIA Jetson Installation(arm64)](3.-sdk-installation/3.1-platforms/c.-nvidia-isaac-installation.md)
     * [D. Other OS (by request)](3.-sdk-installation/3.1-platforms/d.-other-os-by-request.md)
   * [3.2 SDK Knowledge Base](3.-sdk-installation/3.2-sdk-knowledge-base/README.md)
+    * [0. SDK File Structures](3.-sdk-installation/3.2-sdk-knowledge-base/0.-sdk-file-structures.md)
     * [A. SDK Setting Configurations](3.-sdk-installation/3.2-sdk-knowledge-base/a.-sdk-setting-configurations.md)
     * [B. Camera Web Interface](3.-sdk-installation/3.2-sdk-knowledge-base/b.-camera-web-interface.md)
 * [4. APIs](4.-apis/README.md)
