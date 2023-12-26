@@ -72,8 +72,6 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/11.png)
 
-**Note**: If users use Linux platform. Please follow command below to activate NiViewer.
-
 2. Upon activation, a **Status Window**, and a **Viewer Window** both pop
 
 <figure><img src="../../.gitbook/assets/global_camera/access_by_NIViewer/12.png" alt=""><figcaption></figcaption></figure>
@@ -96,9 +94,11 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 7. Optionally press F to maximize / minimize the viewer’s window.
 
-**Note**: If for any reason the USB cable is forcibly removed while NiViewer is functioning, an **ERROR! Device disconnected** message appears on the screen. To resume livestreaming, re-plug the USB cable.
-
 ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/17.png)
+
+{% hint style="info" %}
+**Note**: If for any reason the USB cable is forcibly removed while NiViewer is functioning, an **ERROR! Device disconnected** message appears on the screen. To resume livestreaming, re-plug the USB cable.
+{% endhint %}
 
 8. Optionally press C to capture the current screen as a raw format file. To access the raw format file, go to **LIPSedge™ camera SDK > OpenNI2 > Tools > CaptureFrames** and drag the captured image file to the **Ni2RawViewer.exe**. For details, refer to _5.1 LIPSedgeSamples_.
 
@@ -112,7 +112,9 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 {% tab title="c. NIViewer Settings" %}
 NIViewer relies on hotkeys, which are listed in the help menu, to control its functionality and adjustments. By default, the menu in NIViewer is hidden to provide an unobstructed viewing experience. To access this menu, press Shift + ?.
 
+{% hint style="info" %}
 **Note**: LIPSedgeTM M3 only supports depth / IR images and functions. IR images will be displayed when functions involving color streaming is selected.
+{% endhint %}
 
 | Default – The help menu hidden                                        | The help menu displayed                                                        |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
