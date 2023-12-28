@@ -1,9 +1,3 @@
----
-description: >-
-  SDK settings are available by modifying the key/value pairs in the
-  ModuleConfig.json file.
----
-
 # A. SDK Setting Configurations
 
 In addition to the OpenNI2 settings, the camera image settings are also available for adjustment in the ModuleConfig.json file, written in key / value pairs.
