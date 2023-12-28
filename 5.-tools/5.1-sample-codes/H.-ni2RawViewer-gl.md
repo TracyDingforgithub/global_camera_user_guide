@@ -18,7 +18,7 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 2\. Press C and the current image will be captured.
 
-3\. Go to LIPSedge™ DL SDK > OpenNI2 > Tools > CapturedFrames.
+3\. Go to LIPSedge™ camera SDK > OpenNI2 > Tools > CapturedFrames.
 
 4\. Drag a raw image file to the Ni2RawViewer-gl.
 
