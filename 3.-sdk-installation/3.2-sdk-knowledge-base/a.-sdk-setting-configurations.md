@@ -1,26 +1,6 @@
 # A. SDK Setting Configurations
 
-In addition to the OpenNI2 settings, the camera image settings are also available for adjustment in the ModuleConfig.json file, written in key / value pairs.
 
-1. To modify the SDK settings, edit ModuleConfig.json file in the following location.
-
-{% tabs %}
-{% tab title="Windows" %}
-File location: C:/LIPSedge™ L210 camera path/OpenNI2/Tools/OpenNI2/Drivers
-
-For Windows, open the file with **Administrator Privilege**.
-
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Linux" %}
-File location: /LIPSedge-Camera-SDK-Linux/LIPSedge-\[Model]-SDK/Tools/OpenNI2/Drivers
-
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-2. Find the functions you are changing and start editing.
 
 {% tabs %}
 {% tab title="a. Cutting Range Settings" %}
