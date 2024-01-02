@@ -8,11 +8,11 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (48).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (10) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -22,11 +22,11 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 4\. Drag a raw image file to the Ni2RawViewer-gl.
 
-<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (49).png" alt=""><figcaption></figcaption></figure>
 
 5\. The raw image file will be displayed.
 
-<figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (50).png" alt=""><figcaption></figcaption></figure>
 
 6\. Users can navigate through the image with the following hotkeys:
 
@@ -40,4 +40,4 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 \- Down / Right arrow key: Displays the next frame.
 
-<figure><img src="../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (51).png" alt=""><figcaption></figcaption></figure>
