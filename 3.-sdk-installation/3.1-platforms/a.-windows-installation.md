@@ -70,31 +70,31 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 1. From the Start menu, start NIViewer.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/11.png)
+![](../../.gitbook/assets/11.png)
 
 2. Upon activation, a **Status Window**, and a **Viewer Window** both pop
 
-<figure><img src="../../.gitbook/assets/global_camera/access_by_NIViewer/12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 3. The **Status Window** displays the camera information, such as SDK build version, SDK time stamp, camera ID, status.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/13.png)
+![](../../.gitbook/assets/13.png)
 
 4. The **Viewer Window** displays the Depth image on screen.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/14.png)
+![](../../.gitbook/assets/14.png)
 
 5. Press **\[p]** to activate **the pointer mode**. The meter below shows the depth data of the given point marked by the indicator.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/15.png)
+![](../../.gitbook/assets/15.png)
 
 6. Optionally choose an area to display by dragging a cropping area with the cursor. The rest of the areas will be masked from displaying.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/16.png)
+![](../../.gitbook/assets/16.png)
 
 7. Optionally press F to maximize / minimize the viewer’s window.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/17.png)
+![](../../.gitbook/assets/17.png)
 
 {% hint style="info" %}
 **Note**: If for any reason the USB cable is forcibly removed while NiViewer is functioning, an **ERROR! Device disconnected** message appears on the screen. To resume livestreaming, re-plug the USB cable.
@@ -102,11 +102,11 @@ LIPSedge™ camera utilizes NIViewer, OpenNI’s signature tool, for examining a
 
 8. Optionally press C to capture the current screen as a raw format file. To access the raw format file, go to **LIPSedge™ camera SDK > OpenNI2 > Tools > CaptureFrames** and drag the captured image file to the **Ni2RawViewer.exe**. For details, refer to _5.1 LIPSedgeSamples_.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/18.png)
+![](../../.gitbook/assets/18.png)
 
 9. If by accident the camera is abruptly connected, the camera will automatically restore the camera connection.
 
-![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/19.png)
+![](../../.gitbook/assets/19.png)
 {% endtab %}
 
 {% tab title="c. NIViewer Settings" %}
@@ -116,9 +116,9 @@ NIViewer relies on hotkeys, which are listed in the help menu, to control its fu
 **Note**: LIPSedgeTM M3 only supports depth / IR images and functions. IR images will be displayed when functions involving color streaming is selected.
 {% endhint %}
 
-| Default – The help menu hidden                                        | The help menu displayed                                                        |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| ![](../../.gitbook/assets/global\_camera/access\_by\_NIViewer/20.png) | ![](<../../.gitbook/assets/global\_camera/access\_by\_NIViewer/image (4).png>) |
+| Default – The help menu hidden    | The help menu displayed                        |
+| --------------------------------- | ---------------------------------------------- |
+| ![](../../.gitbook/assets/20.png) | ![](<../../.gitbook/assets/image (4) (2).png>) |
 
 The help menu provides the following functionalities:
 
@@ -135,17 +135,17 @@ The help menu provides the following functionalities:
 
 33.3 represents the depth value from the camera lens to the object.
 
-<figure><img src="../../.gitbook/assets/global_camera/access_by_NIViewer/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Move the pointer towards the adjacent yellow segment to assess the width between yellow segments in depth value.
 
-<figure><img src="../../.gitbook/assets/global_camera/access_by_NIViewer/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Display**
 
 * **Pointer Mode On / Off \[p]**: Enables **Pointer Mode** to show a red dot, which indicates the depth value (unit: mm), representing the distance from the camera lens to the object located at a specific point on the image.
 
-<figure><img src="../../.gitbook/assets/global_camera/access_by_NIViewer/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 * **Full Screen On / Off \[p]:** Displays the camera images in full screen or turns the full screen display off.
 * **Reset IR histogram \[h]:** Clears the IR histogram.

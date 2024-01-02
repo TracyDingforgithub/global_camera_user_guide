@@ -16,7 +16,7 @@ With the cutting range function, you can specify the minimum and maximum working
 
 \- 1000 value represents 1 m of physical distance.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully.
 
@@ -52,11 +52,11 @@ The Flying Pixel Removal function filters noises resulting from the discrepancy 
 
 5.  Here’s a comparison between images with different levels of filter.
 
-    | P0: 0.000002                                | P0: 0.000004                                | P0: 0.000008                                            |
-    | ------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
-    | ![](<../../.gitbook/assets/image (32).png>) | ![](<../../.gitbook/assets/image (26).png>) | ![](<../../.gitbook/assets/image (41) (1).png>)         |
-    | P0: 0.000016                                | P0: 0.000032                                | P0: 0.000064                                            |
-    | ![](<../../.gitbook/assets/image (25).png>) | ![](<../../.gitbook/assets/image (38).png>) | ![](<../../.gitbook/assets/image (10) (1) (1) (1).png>) |
+    | P0: 0.000002                                    | P0: 0.000004                                    | P0: 0.000008                                    |
+    | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+    | ![](<../../.gitbook/assets/image (32).png>)     | ![](<../../.gitbook/assets/image (26) (1).png>) | ![](<../../.gitbook/assets/image (41) (1).png>) |
+    | P0: 0.000016                                    | P0: 0.000032                                    | P0: 0.000064                                    |
+    | ![](<../../.gitbook/assets/image (25) (1).png>) | ![](<../../.gitbook/assets/image (38).png>)     | ![](<../../.gitbook/assets/image (10) (1).png>) |
 {% endtab %}
 
 {% tab title="c. OWCT Setting" %}
@@ -66,7 +66,7 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 
 2\. Under CT, adjust the parameter of ow\_enable. To enable / disable OWCT, type true / false.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 3. Optionally, change the value of object **P0** for adjusting the filter strength. **1** represents the weakest filter, while **10** represents the strongest.\
    By default, the threshold value is 1.
@@ -79,11 +79,11 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 
 5. Here’s a comparison between images with different confidence threshold level.
 
-| OWCT Level 1                                    | OWCT Level 2                                | OWCT Level 3                                |
-| ----------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| ![](<../../.gitbook/assets/image (15) (1).png>) | ![](<../../.gitbook/assets/image (48).png>) | ![](<../../.gitbook/assets/image (37).png>) |
-| OWCT Level 4                                    | OWCT Level 5                                | OWCT Level 6                                |
-| ![](<../../.gitbook/assets/image (49).png>)     | ![](<../../.gitbook/assets/image (17).png>) | ![](<../../.gitbook/assets/image (20).png>) |
+| OWCT Level 1                                    | OWCT Level 2                                    | OWCT Level 3                                    |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| ![](<../../.gitbook/assets/image (15) (1).png>) | ![](<../../.gitbook/assets/image (48).png>)     | ![](<../../.gitbook/assets/image (37).png>)     |
+| OWCT Level 4                                    | OWCT Level 5                                    | OWCT Level 6                                    |
+| ![](<../../.gitbook/assets/image (49).png>)     | ![](<../../.gitbook/assets/image (17) (1).png>) | ![](<../../.gitbook/assets/image (20) (1).png>) |
 {% endtab %}
 
 {% tab title="d. Working Range Settings" %}
@@ -96,7 +96,7 @@ LIPS Camera supports two working range settings: **Normal Range** (1 \~ 4 m) and
 1. In the **ModuleConfig.json** file, find object **config**.
 2. Under **config**, adjust the parameter of **lens\_mode**. To enable **Normal Range**, type **1**. To enable **Close Range**, type **0**. By default, the value of lens\_mode is 1.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully. On the **Calibration column**, parameter beginning with **0203** represents **Normal Range**, and **0211** represents **Close Range** in LIPS SDK.
 
@@ -117,7 +117,7 @@ LIPS Camera keeps a system log for system activities, warnings, and errors. You 
 
 3\. Save the settings and launch your viewer to verify if the change is applied successfully.
 
-![](<../../.gitbook/assets/image (11) (1) (1).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -162,14 +162,14 @@ This feature works for LIPSedge DL only. You can rotate the camera’s color or 
 1. In ModuleConfig.json, find object config.
 2. Under config, adjust the value of portrait\_mode\_en. To enable / disable image rotation, type true / false.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (1).png>)
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully.
 4. Here’s a comparison between color / depth images with different image orientation settings.
 
-| Horizontal Image                            | Flipped Image                               |
-| ------------------------------------------- | ------------------------------------------- |
-| ![](<../../.gitbook/assets/image (24).png>) | ![](<../../.gitbook/assets/image (50).png>) |
+| Horizontal Image                                | Flipped Image                               |
+| ----------------------------------------------- | ------------------------------------------- |
+| ![](<../../.gitbook/assets/image (24) (1).png>) | ![](<../../.gitbook/assets/image (50).png>) |
 {% endtab %}
 
 {% tab title="i. Streaming Format Settings" %}
@@ -182,6 +182,6 @@ This feature works for LIPSedge DL only. NiViewer supports YUY2 or MJPEG format 
 
 3. Save the settings and launch your viewer to verify if the change is applied successfully. With YUY2 encryption, the livestream will have slight delay. With MJPEG, the livestream will be smoother.
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 {% endtab %}
 {% endtabs %}

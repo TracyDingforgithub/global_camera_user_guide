@@ -4,7 +4,7 @@ LIPSedge cameraa SDK is integrated with OpenNI APIs. The key strength of this ro
 
 index.html (under directory of OpenNI2\Documentation\cpp)
 
-<figure><img src="../.gitbook/assets/global_camera/API_for_openni/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 1. Main Page: This tab provides a clear overview of the OpenNI API, including a quick installation guide, introduction of the coding conventions, legal documents, and the release notes.
 2. Related Pages: This tab provides a selection of the information that is related to OpenNI.
