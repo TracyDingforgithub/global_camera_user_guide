@@ -1,4 +1,4 @@
-# A. SDK Setting Configurations
+# B. SDK Setting Configurations
 
 
 
@@ -28,7 +28,7 @@ With the cutting range function, you can specify the minimum and maximum working
 | ----------------------------------------------- | ------------------------------------------------------------ |
 | <p>A5->P1: 10000</p><p>A5->P2: 0</p>            | <p>A5->P1: 4000 (4 m)</p><p>A5->P2: 1500 (1.5 m)</p>         |
 | ![](<../../.gitbook/assets/image (52).png>)     | ![](../../.gitbook/assets/global\_camera/image%20\(46\).png) |
-| ![](<../../.gitbook/assets/image (53) (1).png>) | ![](<../../.gitbook/assets/image (29).png>)                  |
+| ![](<../../.gitbook/assets/image (53) (1).png>) | ![](<../../.gitbook/assets/image (29) (1).png>)              |
 {% endtab %}
 
 {% tab title="b. Flying Pixel Removal" %}
