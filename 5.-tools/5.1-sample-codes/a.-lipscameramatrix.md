@@ -8,16 +8,16 @@ description: >-
 
 1\. In LIPSedgeSamples/Bin, start LIPSCameraMatrix.exe.
 
-{% tabs %}
+{% tabs %}S
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (11).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (10) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 2\. Provides detailed camera parameters for depth, IR, and color cameras.
 
-<figure><img src="../../.gitbook/assets/image (33) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (33).png" alt=""><figcaption></figcaption></figure>

@@ -6,16 +6,16 @@ description: A simple OpenNI2 console program to show depth value at center poin
 
 1\. In LIPSedgeSamples/Bin, start Ni2CenterRead.
 
-{% tabs %}
+{% tabs %}S
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (15).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/image (10) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 2\. A simple OpenNI2 console program to show depth value at center point of frame.
 
-<figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (6).png" alt=""><figcaption></figcaption></figure>
