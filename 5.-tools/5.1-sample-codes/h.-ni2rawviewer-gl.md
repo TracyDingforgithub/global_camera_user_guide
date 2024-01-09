@@ -22,7 +22,7 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 4\. Drag a raw image file to the Ni2RawViewer-gl.
 
-<figure><img src="../../.gitbook/assets/image (49) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 5\. The raw image file will be displayed.
 

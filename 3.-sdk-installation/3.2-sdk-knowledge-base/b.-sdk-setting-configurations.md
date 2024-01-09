@@ -66,7 +66,7 @@ Overwrite Confidence Threshold (OWCT) allows users to minimize unfavorable pixel
 
 2\. Under CT, adjust the parameter of ow\_enable. To enable / disable OWCT, type true / false.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 3. Optionally, change the value of object **P0** for adjusting the filter strength. **1** represents the weakest filter, while **10** represents the strongest.\
    By default, the threshold value is 1.
