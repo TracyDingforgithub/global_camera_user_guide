@@ -8,7 +8,7 @@ description: OpenNI2 device management by event-driven design.
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}

@@ -8,7 +8,7 @@ description: Put camera into sleep mode to shutdown projector/emitter temporaril
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (36) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}

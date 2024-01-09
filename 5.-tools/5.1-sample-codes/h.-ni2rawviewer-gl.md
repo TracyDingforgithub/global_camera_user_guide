@@ -8,7 +8,7 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}

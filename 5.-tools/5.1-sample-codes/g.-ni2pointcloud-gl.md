@@ -8,7 +8,7 @@ description: NiPointcloud generates pointcloud data for depth camera.
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png"" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}

@@ -10,7 +10,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/image (31) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
