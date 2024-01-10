@@ -8,7 +8,7 @@ description: >-
 
 1\. In LIPSedgeSamples/Bin, start LIPSCameraMatrix.exe.
 
-{% tabs %}S
+{% tabs %}
 {% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (11).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}

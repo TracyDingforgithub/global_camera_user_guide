@@ -8,7 +8,7 @@ description: >-
 
 1\. In LIPSedgeSamples/Bin, start LIPSLensModeSelect-gl.exe
 
-{% tabs %}S
+{% tabs %}
 {% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (13).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -26,6 +26,6 @@ description: >-
 
 3\. Alternatively, switching to Mode 2 changes the lens mode to 0, allowing the camera to achieve a range of up to 3 meters.
 
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (40).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (45).png" alt=""><figcaption></figcaption></figure>

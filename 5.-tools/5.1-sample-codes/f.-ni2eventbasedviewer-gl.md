@@ -6,7 +6,7 @@ description: OpenNI2 device management by event-driven design.
 
 1\. In LIPSedgeSamples/Bin, start Ni2EventBasedViewer-gl.
 
-{% tabs %}S
+{% tabs %}
 {% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (16).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}

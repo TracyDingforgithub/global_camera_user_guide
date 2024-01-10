@@ -1,12 +1,15 @@
 ---
-description: Put camera into sleep mode to shutdown projector/emitter temporarily.
+description: >-
+  This feature includes a Standby Mode (Low Power Mode) that allows users to
+  temporarily pause and resume live streaming by sending a status code through
+  LIPSPowerTest-gl.
 ---
 
 # D. LIPSPowerTest-gl
 
 1\. In LIPSedgeSamples/Bin, start Ni2PowerTest-gl.exe.
 
-{% tabs %}S
+{% tabs %}
 {% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (14).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -23,10 +26,8 @@ description: Put camera into sleep mode to shutdown projector/emitter temporaril
 3\. Type the following status code into the Status Window interface to\
 enable / disable the Standby Mode.
 
-\- l: Enable the Standby Mode. Under the Standby Mode, the live streaming stops and the camera’s Status Indicator goes off.
-
-\- n: Disable the Standby Mode.
-
+\- l: Enable the Standby Mode. Under the Standby Mode, the live streaming stops and the camera’s Status Indicator goes off.\
+\- n: Disable the Standby Mode.\
 \- q: Exists the program.
 
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (3).png" alt=""><figcaption></figcaption></figure>

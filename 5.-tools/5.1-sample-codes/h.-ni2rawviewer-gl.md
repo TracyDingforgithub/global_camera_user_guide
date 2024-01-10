@@ -1,5 +1,7 @@
 ---
-description: A simple tool for reading OpenNI2 frames captured in raw data format.
+description: >-
+  A tool for reading OpenNI2 frames captured in raw data format. To achieve
+  this:
 ---
 
 # H. Ni2RawViewer-gl
@@ -8,11 +10,11 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 {% tabs %}
 {% tab title="Windows" %}
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (18).png"  alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (18).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Linux" %}
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (10).png"  alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (10).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -22,7 +24,7 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 4\. Drag a raw image file to the Ni2RawViewer-gl.
 
-<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image%20(49).png" alt=""><figcaption></figcaption></figure>
 
 5\. The raw image file will be displayed.
 
@@ -30,14 +32,10 @@ description: A simple tool for reading OpenNI2 frames captured in raw data forma
 
 6\. Users can navigate through the image with the following hotkeys:
 
-\- H / h: Displays / turn off the help menu.
-
-\- Q / q / Esc: Exit NiRawViewer-gl.
-
-\- Space: Reset adjusted window size to its original resolution.
-
-\- Up / Left arrow key: Displays the previous frame.
-
+\- H / h: Displays / turn off the help menu.\
+\- Q / q / Esc: Exit NiRawViewer-gl.\
+\- Space: Reset adjusted window size to its original resolution.\
+\- Up / Left arrow key: Displays the previous frame.\
 \- Down / Right arrow key: Displays the next frame.
 
 <figure><img src="../../.gitbook/assets/image (51) (3).png" alt=""><figcaption></figcaption></figure>

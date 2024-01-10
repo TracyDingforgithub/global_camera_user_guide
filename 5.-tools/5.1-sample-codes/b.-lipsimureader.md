@@ -6,7 +6,7 @@ description: A tool to read IMU sensor data (Accel. & Gyro) from LIPSedge camera
 
 1\. In LIPSedgeSamples/Bin, start Ni2ImuReader.exe.
 
-{% tabs %}S
+{% tabs %}
 {% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (12).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}

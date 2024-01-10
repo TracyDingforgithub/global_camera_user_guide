@@ -6,7 +6,7 @@ description: NiPointcloud generates pointcloud data for depth camera.
 
 1\. In LIPSedgeSamples/Bin, start Ni2PointCloud-gl.exe.
 
-{% tabs %}S
+{% tabs %}
 {% tab title="Windows" %}
 <figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (17).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
