@@ -38,4 +38,4 @@ description: >-
 \- Up / Left arrow key: Displays the previous frame.\
 \- Down / Right arrow key: Displays the next frame.
 
-<figure><img src="../../.gitbook/assets/image (51) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/global_camera/sample_codes/image (51).png" alt=""><figcaption></figcaption></figure>
